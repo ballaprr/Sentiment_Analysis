@@ -1,5 +1,4 @@
 # Rohan Ballapragada
-# Sanchit Chopra
 # Run python3 main.py
 # After running, it takes time to interpret but it prints accuracy
 
